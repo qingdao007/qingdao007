@@ -1,4 +1,4 @@
-# 👋 Hi, I’m qingdao007
+# 👋 Hi, I’m Arisu
 
 > 拥抱改变，热爱创新
 
@@ -22,10 +22,6 @@
 ## 🐾 Fun Facts
 
 - 猫奴，喜欢分享生活中的小确幸
-
-## 📫 Contact
-
-- Email: [qingxi2025@proton.me](mailto:qingxi2025@proton.me)
 
 ---
 
